@@ -1,0 +1,2 @@
+# SMART-FIRST-FLUSH-CONTAMINATION-ALERT-SYSTEM-FOR-INTERMITTENT-MUNICIPAL-WATER-SUPPLY
+The Smart First-Flush Contamination Alert System tackles unsafe initial water in intermittent municipal supply by using sensors and ESP32 to detect, analyze, and divert contaminated flow. It alerts users with LEDs, buzzers, and voice prompts, ensuring only clean water is stored—improving health, saving water, and enhancing reliability.
